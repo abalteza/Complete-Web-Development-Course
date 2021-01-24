@@ -1,2 +1,2 @@
 # Learning Git in VSCode
-- second commit
+- second commit attemp 2
